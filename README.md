@@ -32,7 +32,7 @@ _In this great application I made use of the Trivia API to have amazing features
 * _Note: This is version 1.3.0 of the application; the Async and Await version you've all been waiting for_
 
 ## WebLink
-https://emzzy241.github.io/-Trivia-Flash-Cards-1.3.0/
+https://emzzy241.github.io/Trivia-Flash-Cards-1.3.0/
 
 ## License
 Licensed under the GNU General Public License
