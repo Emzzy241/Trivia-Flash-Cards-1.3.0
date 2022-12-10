@@ -21,7 +21,7 @@ export class TriviaService {
         }
 
         catch (triviaError) {
-            return triviaError,message;
+            return triviaError.message;
         }
 
     }
